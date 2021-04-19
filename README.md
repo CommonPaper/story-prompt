@@ -6,7 +6,7 @@ Fork a copy of this repository to your Github account and when you have complete
 
 ## Project
 
-### Short Story Generator
+### Story Prompt Generator
 
 One day Anna was walking her {{NUMBER}} {{UNIT_OF_MEASURE}} commute to {{PLACE}} and found a {{ADJECTIVE}} {{NOUN}} on the ground.
 
