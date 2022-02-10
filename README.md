@@ -47,7 +47,7 @@ ben@commonpaper.com.
 
 ### Story Prompt Generator
 
-One day Anna was walking her {NUMBER} {UNIT_OF_MEASURE} commute to {PLACE} and found a {ADJECTIVE} {NOUN} on the ground.
+One day Anna was walking her {{NUMBER}} {{UNIT_OF_MEASURE}} commute to {{PLACE}} and found a {{ADJECTIVE}} {{NOUN}} on the ground.
 
 Write a command line application in any language that accepts a json string of key-value inputs for the template above.
 With valid input, the application sends to STDOUT the story using the inputs provided. For example, "One day Anna was
